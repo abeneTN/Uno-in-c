@@ -1,0 +1,7 @@
+what's not working :
+1) +4
+2) Joker c bonnn
+3) +2
+
+C Pass Addresses and Pointers :
+https://www.programiz.com/c-programming/c-pointer-functions
